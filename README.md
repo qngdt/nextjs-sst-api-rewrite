@@ -8,3 +8,4 @@ In `next.config.js` we have a rewrite rule like this
 ```
 
 Navigating to `/api/*` will give us `net::ERR_CONTENT_DECODING_FAILED 200`
+![ error ]( error.png )
